@@ -1,0 +1,40 @@
+header{
+    background-color:aquamarine;
+    font-family:  'Arial Narrow';
+    padding: 30px 40px;
+    margin-top: auto;
+}
+nav{ 
+    float: left;
+    background-color: bisque;
+    
+    height: 525px;
+    width: 20%px;
+}
+nav ul{
+    list-style: none;
+}
+nav ul li{
+    margin: 30px 70px;
+}
+nav ul li a{
+      text-decoration: none;
+}
+section::after{
+    display: table;
+    content:"";
+    clear: both;
+}
+
+footer{
+    float: left;
+    background-color: blueviolet;
+    
+}
+article{
+    float: left;
+    background-color: brown;
+    
+    height: 525px;
+    width: 80%;
+}

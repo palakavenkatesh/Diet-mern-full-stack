@@ -1,0 +1,14 @@
+header {
+    background-color: antiquewhite;
+}
+form {
+    background-color: gainsboro;
+    border: 10px solid red;
+    padding-left: 10px;
+    margin: auto;
+    height: 100px;
+    width: 300px;
+}
+button{
+    background-color: aquamarine;
+}
